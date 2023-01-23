@@ -1,0 +1,37 @@
+#title
+{
+    color: aqua;
+    font-size: 50px;
+}
+.content
+{
+   color: blue; 
+   font-style: italic;
+   font-size: 30px;
+}
+div{
+    background: #a95c5c;
+    border: solid 5px;
+    width: 200px;
+    height: 250px;
+    color: #3f3f42;
+   
+
+}
+.box{
+    margin-top: 50px;
+    margin-left: 100px;
+    padding-left: 30px;
+    
+}
+.white{
+    color: #fff;
+}
+.inner-div{
+    background: green;
+    width: 100px;
+    height: 100px;
+    border: solid 3px;
+    margin:10px;
+    
+}
